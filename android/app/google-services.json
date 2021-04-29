@@ -1,0 +1,259 @@
+{
+  "project_info": {
+    "project_number": "389264378287",
+    "firebase_url": "https://grocery-1ee65.firebaseio.com",
+    "project_id": "grocery-1ee65",
+    "storage_bucket": "grocery-1ee65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389264378287:android:90f8055a71303ad466875a",
+        "android_client_info": {
+          "package_name": "com.quickyshop.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389264378287-bskkufqmtvlhg78mfgpr6rv3brg689ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.customer",
+            "certificate_hash": "9110900d74fbfbde8a2094148239e4abf097d1d5"
+          }
+        },
+        {
+          "client_id": "389264378287-c5uo8p1v101pes7nnh81pop30tb3q77t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.customer",
+            "certificate_hash": "5fa8ae68d36c6ee8e23c1534848f6f19696ac1ed"
+          }
+        },
+        {
+          "client_id": "389264378287-g2n4pif8p9c97jcfb9s0lketn5drekmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.customer",
+            "certificate_hash": "c4b626edddd3b47b17eb96fa078cda2d91edd4e0"
+          }
+        },
+        {
+          "client_id": "389264378287-hbmsigponv6hc7a5j4tioalgiclpo61a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.customer",
+            "certificate_hash": "b5f592d534911a028cedb7c82dbfc9fa685186bf"
+          }
+        },
+        {
+          "client_id": "389264378287-o44ak3vg9447j9cn0gs5vkg0ml9l6gdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.customer",
+            "certificate_hash": "63b10410d5908bfc6d0c604ea7b9ebc207f61e75"
+          }
+        },
+        {
+          "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjWGJLjGRvetK4QP-pA7y_zHkOeSDdNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389264378287-5gvlj4dvsv4dn24810ovlftc1htcjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389264378287:android:8bfc1fdff07b121e66875a",
+        "android_client_info": {
+          "package_name": "com.quickyshop.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389264378287-hss9mvp5820sbr8f3m2soff7i2fmks02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.dashboard",
+            "certificate_hash": "5fa8ae68d36c6ee8e23c1534848f6f19696ac1ed"
+          }
+        },
+        {
+          "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjWGJLjGRvetK4QP-pA7y_zHkOeSDdNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389264378287-5gvlj4dvsv4dn24810ovlftc1htcjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389264378287:android:0f9a912807c3e31066875a",
+        "android_client_info": {
+          "package_name": "com.quickyshop.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389264378287-1a4babcci97k0g8kklv8gjpj2lvb8s22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.delivery",
+            "certificate_hash": "63b10410d5908bfc6d0c604ea7b9ebc207f61e75"
+          }
+        },
+        {
+          "client_id": "389264378287-madr6thfr5ddd3jjtt279gflodqivocp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.delivery",
+            "certificate_hash": "c173c5264b437e74f366e2ce49908d2a0655e804"
+          }
+        },
+        {
+          "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjWGJLjGRvetK4QP-pA7y_zHkOeSDdNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389264378287-5gvlj4dvsv4dn24810ovlftc1htcjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389264378287:android:9e1371ab52899aa466875a",
+        "android_client_info": {
+          "package_name": "com.quickyshop.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389264378287-htplajh5cernhldmk84jq4hriq23a4qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.partner",
+            "certificate_hash": "9110900d74fbfbde8a2094148239e4abf097d1d5"
+          }
+        },
+        {
+          "client_id": "389264378287-i45m269lthrr0pq0dgac33t0et6g8qrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.partner",
+            "certificate_hash": "c4b626edddd3b47b17eb96fa078cda2d91edd4e0"
+          }
+        },
+        {
+          "client_id": "389264378287-ns962b812uimi4p9dm8dpaqt2murkq57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.partner",
+            "certificate_hash": "5fa8ae68d36c6ee8e23c1534848f6f19696ac1ed"
+          }
+        },
+        {
+          "client_id": "389264378287-opbfvbp5hn9mlb07r0gquf78epufvi5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.partner",
+            "certificate_hash": "63b10410d5908bfc6d0c604ea7b9ebc207f61e75"
+          }
+        },
+        {
+          "client_id": "389264378287-p4rbb8smfolnurf8738jpdd1aso9jqa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickyshop.partner",
+            "certificate_hash": "1d43d83d06118e914ac5420dda8c008fa08fe0dd"
+          }
+        },
+        {
+          "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjWGJLjGRvetK4QP-pA7y_zHkOeSDdNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389264378287-0jr5gr8lunq49qjcvu8cm4ovi2qi0fig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389264378287-5gvlj4dvsv4dn24810ovlftc1htcjaf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceryOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
